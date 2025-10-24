@@ -1,0 +1,11 @@
+# Исключаем всё по умолчанию
+*
+
+# оставляем нужное
+!other notebooks/
+!other notebooks/**
+!dls-homework-1.ipynb
+!dls-homework-3.ipynb
+
+# Также оставляем .gitignore
+!.gitignore
