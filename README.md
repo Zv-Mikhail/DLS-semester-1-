@@ -185,5 +185,5 @@
 - Эксперименты показали важность подбора оптимальной архитектуры и гиперпараметров, а также аккуратного обращения с обучающими данными.  
 
 
-**Результат на Kaggle:** [207 место из 5724 участников](https://www.kaggle.com/competitions/journey-to-springfield1/leaderboard)  
+**Результат на Kaggle:** [3 место из 100+ участников](https://www.kaggle.com/competitions/journey-to-springfield1/leaderboard)  
 **Team:** Михаил_Звягинцев_414906596
